@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the Issue Tracker for GCalToolkit, Sheets2GCal & GCalPlus
 
 <!--
 **GCalToolkit/GCalToolkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
