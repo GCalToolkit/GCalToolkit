@@ -6,7 +6,7 @@ Install GCalToolkit, GTasksToolkit, GCalExtras, Sheets2GCal & GCalPlus here:
 
 - GCalToolkit -> https://www.gcaltoolkit.com
 - GTasksToolkit -> https://www.gcaltoolkit.com/downloads
-- GTasksExtras -> https://www.sheets2gcal.com/gcalextras
+- GCalExtras -> https://www.sheets2gcal.com/gcalextras
 - Sheets2GCal -> https://workspace.google.com/marketplace/app/sheets2gcal/137564231775
 - GCalPlus -> https://chrome.google.com/webstore/detail/google-calendar-plus/mjelhipeelammmhpghkpigkdonihkakj?hl=en
 
