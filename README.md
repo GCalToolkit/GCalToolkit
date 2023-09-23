@@ -1,4 +1,4 @@
-### Welcome to GCalTools, home of GCalToolkit and GTasksToolkit (desktop software for Google Calendar on osX, Windows, Linux), the Google Sheets add-on Sheets2GCal, the free Chrome Extension GCalPlus, and the Google Calendar add-on GCalExtras.
+### Welcome to GCalTools, home of GCalToolkit and GTasksToolkit desktop software for Google Calendar (Windows/osX/Linux), the Google Sheets add-on Sheets2GCal, Chrome Extension GCalPlus, and the Google Calendar add-on GCalExtras.
 
 <!--
 -->
