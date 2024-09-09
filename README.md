@@ -19,7 +19,7 @@ Manage your accounts here:
 To report issues please contact me by email or report on Github:
 
 - GCalToolkit -> https://github.com/GCalToolkit/GCalToolkit/issues
-- GTasksToolkit -> https://github.com/GTasksToolkit/GTasksToolkit/issues
+- GTasksToolkit -> https://github.com/GCalToolkit/GTasksToolkit/issues
 - Sheets2GCal -> https://github.com/GCalTools/Sheets2GCal/issues
 - GCalExtras -> https://github.com/GCalTools/GCalExtras/issues
 - GCalPlus -> https://github.com/GCalTools/GCalPlus/issues
