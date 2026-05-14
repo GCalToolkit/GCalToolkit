@@ -11,6 +11,7 @@ Install GCalToolkit, GTasksToolkit, GCalExtras, Sheets2GCal & GCalPlus here:
 - Sheets2GCal -> https://workspace.google.com/marketplace/app/sheets2gcal/137564231775
 - GCalPlus -> https://chrome.google.com/webstore/detail/google-calendar-plus/mjelhipeelammmhpghkpigkdonihkakj?hl=en
 - GCal Forum Search -> https://forumsearch.gcaltools.com
+- Keep Manager -> https://www.gcaltools.com/#keep-manager
 
 Manage your accounts here:
 
@@ -25,5 +26,6 @@ To report issues please contact me by email or report on Github:
 - Sheets2GCal -> https://github.com/GCalTools/Sheets2GCal/issues
 - GCalExtras -> https://github.com/GCalTools/GCalExtras/issues
 - GCalPlus -> https://github.com/GCalTools/GCalPlus/issues
+- Keep Manager -> https://github.com/GCalToolkit/Keep-Manager
 
 To browse all links, videos, contacts and socials: https://www.gcaltools.com
